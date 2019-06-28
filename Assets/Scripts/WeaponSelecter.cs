@@ -44,9 +44,9 @@ public class WeaponSelecter : MonoBehaviour
     void Update() {
         // Wで次の装備、Sで前の装備に進める
         // TODO: WとSをトラックパッドの入力に切り替える
-        if (Input.GetKeyDown(KeyCode.W)) {
+        if (Input.GetKeyDown(KeyCode.R)) {
             _currentSelectNum++;
-        } else if (Input.GetKeyDown(KeyCode.S)) {
+        } else if (Input.GetKeyDown(KeyCode.F)) {
             _currentSelectNum--;
         }
 
