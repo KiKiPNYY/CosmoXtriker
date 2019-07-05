@@ -23,7 +23,7 @@ public class Wave : MonoBehaviour
     IEnumerator wavecor(){
         while(waves.Length > currentWave){
         wavemake();
-        yield return new WaitForSeconds(3);
+        yield return new WaitForSeconds(7);
         currentWave++;
         }
             yield break;
