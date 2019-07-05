@@ -9,6 +9,7 @@ public class Wave : MonoBehaviour
     //現在のWave
     private int currentWave;
     GameObject wave;
+    private GameObject miniboss;
 
     void Start()
     {
