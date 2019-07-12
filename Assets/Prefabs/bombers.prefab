@@ -89,6 +89,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 7909953358795338543}
     m_Modifications:
+    - target: {fileID: 82823574137610355, guid: 698e2a07d3eee784697613fc24599d95,
+        type: 3}
+      propertyPath: m_Name
+      value: Bomber (1)
+      objectReference: {fileID: 0}
     - target: {fileID: 82823574138109011, guid: 698e2a07d3eee784697613fc24599d95,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -159,11 +164,6 @@ PrefabInstance:
       propertyPath: m_LocalScale.z
       value: 12.264744
       objectReference: {fileID: 0}
-    - target: {fileID: 82823574137610355, guid: 698e2a07d3eee784697613fc24599d95,
-        type: 3}
-      propertyPath: m_Name
-      value: Bomber (1)
-      objectReference: {fileID: 0}
     - target: {fileID: 8859488624051917267, guid: 698e2a07d3eee784697613fc24599d95,
         type: 3}
       propertyPath: debridsToSpawn.Array.size
@@ -202,6 +202,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 7909953358795338543}
     m_Modifications:
+    - target: {fileID: 82823574137610355, guid: 698e2a07d3eee784697613fc24599d95,
+        type: 3}
+      propertyPath: m_Name
+      value: Bomber
+      objectReference: {fileID: 0}
     - target: {fileID: 82823574138109011, guid: 698e2a07d3eee784697613fc24599d95,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -272,11 +277,6 @@ PrefabInstance:
       propertyPath: m_LocalScale.z
       value: 12.264744
       objectReference: {fileID: 0}
-    - target: {fileID: 82823574137610355, guid: 698e2a07d3eee784697613fc24599d95,
-        type: 3}
-      propertyPath: m_Name
-      value: Bomber
-      objectReference: {fileID: 0}
     - target: {fileID: 8859488624051917267, guid: 698e2a07d3eee784697613fc24599d95,
         type: 3}
       propertyPath: debridsToSpawn.Array.size
@@ -315,6 +315,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 7909953358795338543}
     m_Modifications:
+    - target: {fileID: 82823574137610355, guid: 698e2a07d3eee784697613fc24599d95,
+        type: 3}
+      propertyPath: m_Name
+      value: Bomber (4)
+      objectReference: {fileID: 0}
     - target: {fileID: 82823574138109011, guid: 698e2a07d3eee784697613fc24599d95,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -385,11 +390,6 @@ PrefabInstance:
       propertyPath: m_LocalScale.z
       value: 12.264744
       objectReference: {fileID: 0}
-    - target: {fileID: 82823574137610355, guid: 698e2a07d3eee784697613fc24599d95,
-        type: 3}
-      propertyPath: m_Name
-      value: Bomber (4)
-      objectReference: {fileID: 0}
     - target: {fileID: 8859488624051917267, guid: 698e2a07d3eee784697613fc24599d95,
         type: 3}
       propertyPath: debridsToSpawn.Array.size
@@ -428,6 +428,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 7909953358795338543}
     m_Modifications:
+    - target: {fileID: 82823574137610355, guid: 698e2a07d3eee784697613fc24599d95,
+        type: 3}
+      propertyPath: m_Name
+      value: Bomber (3)
+      objectReference: {fileID: 0}
     - target: {fileID: 82823574138109011, guid: 698e2a07d3eee784697613fc24599d95,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -498,11 +503,6 @@ PrefabInstance:
       propertyPath: m_LocalScale.z
       value: 12.264744
       objectReference: {fileID: 0}
-    - target: {fileID: 82823574137610355, guid: 698e2a07d3eee784697613fc24599d95,
-        type: 3}
-      propertyPath: m_Name
-      value: Bomber (3)
-      objectReference: {fileID: 0}
     - target: {fileID: 8859488624051917267, guid: 698e2a07d3eee784697613fc24599d95,
         type: 3}
       propertyPath: debridsToSpawn.Array.size
@@ -541,6 +541,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 7909953358795338543}
     m_Modifications:
+    - target: {fileID: 82823574137610355, guid: 698e2a07d3eee784697613fc24599d95,
+        type: 3}
+      propertyPath: m_Name
+      value: Bomber (2)
+      objectReference: {fileID: 0}
     - target: {fileID: 82823574138109011, guid: 698e2a07d3eee784697613fc24599d95,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -610,11 +615,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalScale.z
       value: 12.264744
-      objectReference: {fileID: 0}
-    - target: {fileID: 82823574137610355, guid: 698e2a07d3eee784697613fc24599d95,
-        type: 3}
-      propertyPath: m_Name
-      value: Bomber (2)
       objectReference: {fileID: 0}
     - target: {fileID: 8859488624051917267, guid: 698e2a07d3eee784697613fc24599d95,
         type: 3}
