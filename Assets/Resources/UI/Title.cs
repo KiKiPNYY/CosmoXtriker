@@ -19,6 +19,7 @@ public class Title : MonoBehaviour
 
     private bool _spawnPanel = false;
 
+
     void Start() {
         StartCoroutine(WaitAction());
     }
